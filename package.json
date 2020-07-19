@@ -1,6 +1,6 @@
 {
   "name": "@whatsaaaaa/leafletpolylinepoints",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Leaflet plug-in to add circular point on each Polyline coordinate.",
   "license": "MIT",
   "repository": "Olymo/LeafletPolylinePoints",
