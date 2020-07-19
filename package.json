@@ -1,0 +1,18 @@
+{
+  "name": "@whatsaaaaa/leafletpolylinepoints",
+  "version": "0.0.1",
+  "description": "Leaflet plug-in to add circular point on each Polyline coordinate.",
+  "license": "MIT",
+  "repository": "Olymo/LeafletPolylinePoints",
+  "main": "index.js",
+  "keywords": [
+    "leaflet",
+    "vue2-leaflet",
+    "map",
+    "circle",
+    "point",
+    "polyline",
+    "js",
+    "javascript"
+  ]
+}
