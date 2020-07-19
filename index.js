@@ -53,7 +53,7 @@ const getPointIcon = () => {
   return window.L.divIcon({
     className: "polyline-point",
     bgPos: [5, 5],
-    html: `<div style='color:${OPTIONS.color};'>●</div>`,
+    html: `<div style='color:${GLOBAL_OPTIONS.color};'>●</div>`,
   });
 };
 
